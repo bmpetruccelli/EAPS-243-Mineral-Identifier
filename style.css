@@ -1,0 +1,71 @@
+/* Page layout + full-screen background */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+    /* centers the box */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    /* Add your background image here */
+    background-image: url("rock2.jpg"); /* <--- replace this */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Background panel behind the main box */
+#background-panel {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background: rgba(255, 255, 255, 0.25); /* translucent */
+    border-radius: 20px;
+    backdrop-filter: blur(6px);  /* glass effect */
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+
+    z-index: 0; /* sits behind the app box */
+}
+
+/* Main content box */
+#app {
+    position: relative;
+    z-index: 1; /* sits above background panel */
+
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+}
+
+/* Buttons and styling */
+button {
+    margin: 6px;
+    padding: 10px 15px;
+    border: none;
+    background: #333;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #555;
+}
+
+.option-btn {
+    background: #1976d2;
+}
+
+.option-btn:hover {
+    background: #0d47a1;
+}

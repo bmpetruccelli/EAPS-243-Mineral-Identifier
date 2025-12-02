@@ -1,0 +1,888 @@
+
+[
+  {
+    "name": "Quartz",
+    "color": ["white", "clear", "pink", "purple", "gray", "black", "brown"],
+    "luster": ["vitreous"],
+    "transparency": ["transparent", "translucent"],
+    "streak": ["white"],
+    "shape": ["prism","none"],
+    "fracture": ["conchoidal"],
+    "hardness": [7],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Garnet",
+    "color": ["red", "green"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["dodecahedral", "rhombohedral"],
+    "fracture": ["conchoidal"],
+    "hardness": [6.5, 7.5],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Chromite",
+    "color": ["black"],
+    "luster": ["metallic", "sub-metallic", "resinous", "dull"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["brown"],
+    "shape": ["none"],
+    "fracture": ["conchoidal", "hackly","irregular"],
+    "hardness": [5.5],
+    "other": ["magnetic"]
+  },
+
+
+  {
+    "name": "Apatite",
+    "color": ["blue","green","yellow","pink","brown","clear"],
+    "luster": ["vitreous","resinous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["hexagonal","none"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [5],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Dolomite",
+    "color": ["white","gray","brown"],
+    "luster": ["vitreous","waxy","resinous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["rhombohedral"],
+    "fracture": ["conchoidal"],
+    "hardness": [3.5,4],
+    "other": ["reactive"]
+  },
+
+
+  {
+    "name": "Corundum",
+    "color": ["red","pink","purple","green","blue","brown"],
+    "luster": ["adamantine","vitreous","pearly"],
+    "transparency": ["translucent","transparent","opaque"],
+    "streak": ["white"],
+    "shape": ["hexagonal"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [9],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Kyanite",
+    "color": ["blue","white","gray","yellow","brown"],
+    "luster": ["vitreous","greasy","pearly"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["none"],
+    "shape": ["none"],
+    "fracture": ["splintery"],
+    "hardness": [5.5,7],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Goethite",
+    "color": ["black","brown"],
+    "luster": ["metallic","dull"],
+    "transparency": ["opaque"],
+    "streak": ["yellow","brown"],
+    "shape": ["boytryoidal","none"],
+    "fracture": ["irregular"],
+    "hardness": [5,5.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Pyrite",
+    "color": ["yellow"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["green","black"],
+    "shape": ["cubic"],
+    "fracture": ["irregular"],
+    "hardness": [6,6.5],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Gypsum",
+    "color": ["white","gray","brown"],
+    "luster": ["vitreous","silky","pearly","dull"],
+    "transparency": ["translucent","transparent","opaque"],
+    "streak": ["white"],
+    "shape": ["platy"],
+    "fracture": ["conchoidal","splintery"],
+    "hardness": [2],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Calcite",
+    "color": ["white","clear","yellow","red","orange","blue","green","brown","gray"],
+    "luster": ["vitreous","waxy","resinous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["rhombohedral"],
+    "fracture": ["conchoidal"],
+    "hardness": [3],
+    "other": ["reactive"]
+  },
+
+  {
+    "name": "Hematite",
+    "color": ["gray","black","red"],
+    "luster": ["metallic","sub-metallic","dull"],
+    "transparency": ["opaque"],
+    "streak": ["red","gray"],
+    "shape": ["none","boytryoidal"],
+    "fracture": ["irregular"],
+    "hardness": [5,6],
+    "other": ["none"]
+  },
+
+
+  {
+    "name": "Fluorite",
+    "color": ["blue","green","purple","yellow","pink","clear","brown","red","orange"],
+    "luster": ["vitreous","dull"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["octahedral"],
+    "fracture": ["splintery","conchoidal"],
+    "hardness": [4],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Anhydrite",
+    "color": ["white","gray"],
+    "luster": ["vitreous","pearly","greasy"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white","gray"],
+    "shape": ["none"],
+    "fracture": ["irregular","splintery"],
+    "hardness": [3,3.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Magnetite",
+    "color": ["gray","black"],
+    "luster": ["metallic","sub-metallic"],
+    "transparency": ["opaque"],
+    "streak": ["black"],
+    "shape": ["cubic"],
+    "fracture": ["irregular"],
+    "hardness": [5.5,6.5],
+    "other": ["magnetic"]
+  },
+
+  {
+    "name": "Sphalerite",
+    "color": ["brown","gray","yellow","black","clear","gray"],
+    "luster": ["resinous","dull"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["gray","brown","yellow"],
+    "shape": ["dodecahedral"],
+    "fracture": ["conchoidal"],
+    "hardness": [3.5,4],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Aragonite",
+    "color": ["white","gray","yellow","brown"],
+    "luster": ["vitreous","resinous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white","none"],
+    "shape": ["radiating"],
+    "fracture": ["conchoidal"],
+    "hardness": [3.5,4],
+    "other": ["reactive"]
+  },
+
+  {
+    "name": "Barite",
+    "color": ["brown","red","orange","white","gray","yellow"],
+    "luster": ["vitreous","earthy","dull"],
+    "transparency": ["transparent","translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none","prism"],
+    "fracture": ["irregular"],
+    "hardness": [3],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Sylvite",
+    "color": ["yellow","red","orange","white"],
+    "luster": ["vitreous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["none","cubic","octahedral"],
+    "fracture": ["irregular"],
+    "hardness": [1.5,2],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Scheelite",
+    "color": ["brown","yellow","gray","white"],
+    "luster": ["adamantine","vitreous","earthy"],
+    "transparency": ["translucent","opaque","transparent"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [4.5,5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Bauxite",
+    "color": ["red","orange","brown"],
+    "luster": ["dull","earthy"],
+    "transparency": ["opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [1,2,3],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Sodalite",
+    "color": ["blue","white","gray"],
+    "luster": ["vitreous","greasy"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["conchoidal"],
+    "hardness": [5.5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Graphite",
+    "color": ["black","gray"],
+    "luster": ["sub-metallic"],
+    "transparency": ["opaque"],
+    "streak": ["black","gray"],
+    "shape": ["none"],
+    "fracture": ["micaceous"],
+    "hardness": [1,2],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Pyrolusite",
+    "color": ["gray","black"],
+    "luster": ["metallic","sub-metallic","dull","earthy"],
+    "transparency": ["opaque"],
+    "streak": ["black"],
+    "shape": ["radiating","none"],
+    "fracture": ["irregular"],
+    "hardness": [1,2,3,4,5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Copper",
+    "color": ["red","brown","blue","green"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["red"],
+    "shape": ["none"],
+    "fracture": ["hackly"],
+    "hardness": [2.5,3],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Beryl",
+    "color": ["brown","green","yellow","white"],
+    "luster": ["vitreous","greasy","waxy"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["hexagonal"],
+    "fracture": ["conchoidal"],
+    "hardness": [7.5,8],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Bornite",
+    "color": ["brown","black","gray","purple"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["gray","black"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [3],
+    "other": ["irridescence"]
+  },
+
+  {
+    "name": "Realgar",
+    "color": ["red","orange"],
+    "luster": ["resinous","greasy"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["red","orange"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [1.5,2],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Rhodochrosite",
+    "color": ["pink","brown","gray","red","white"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["none","rhombohedral"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [3.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Malachite",
+    "color": ["green","teal"],
+    "luster": ["silky","earthy"],
+    "transparency": ["opaque"],
+    "streak": ["green"],
+    "shape": ["none","boytryoidal"],
+    "fracture": ["splintery"],
+    "hardness": [3.5,4],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Celestite",
+    "color": ["blue","white","clear","teal"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["prism","none"],
+    "fracture": ["irregular"],
+    "hardness": [3,3.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Azurite",
+    "color": ["blue","teal"],
+    "luster": ["vitreous","earthy"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white","blue"],
+    "shape": ["prism","none"],
+    "fracture": ["conchoidal"],
+    "hardness": [3.5,4],
+    "other": ["reactive"]
+  },
+
+  {
+    "name": "Sulfur",
+    "color": ["yellow","brown","green","white"],
+    "luster": ["resinous","greasy"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["none"],
+    "shape": ["prism","none"],
+    "fracture": ["irregular"],
+    "hardness": [1.5,2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Cinnabar",
+    "color": ["red","brown","gray"],
+    "luster": ["metallic","sub-metallic","earthy","dull"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["red","brown"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [2,2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Halite",
+    "color": ["white","clear","pink","orange","red","brown"],
+    "luster": ["vitreous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["cubic","none"],
+    "fracture": ["conchoidal"],
+    "hardness": [2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Galena",
+    "color": ["gray"],
+    "luster": ["metallic","sub-metallic"],
+    "transparency": ["opaque"],
+    "streak": ["gray","black"],
+    "shape": ["cubic"],
+    "fracture": ["conchoidal"],
+    "hardness": [2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Kaolinite",
+    "color": ["white","gray"],
+    "luster": ["dull","earthy"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular","conchoidal","micaceous"],
+    "hardness": [2,2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Magnesite",
+    "color": ["white","clear","gray"],
+    "luster": ["vitreous","dull","earthy"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none","grainy"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [3.5,4.5],
+    "other": ["reactive"]
+  },
+
+  {
+    "name": "Turquoise",
+    "color": ["teal","blue","blue"],
+    "luster": ["vitreous","dull","earthy"],
+    "transparency": ["translucent","transparent","opaque"],
+    "streak": ["white","green"],
+    "shape": ["none"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Siderite",
+    "color": ["yellow","brown","orange"],
+    "luster": ["vitreous","silky","pearly"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular","conchoidal"],
+    "hardness": [3.5,4.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Pyrrhotite",
+    "color": ["brown","yellow","red"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["gray","black"],
+    "shape": ["none"],
+    "fracture": ["conchoidal"],
+    "hardness": [4],
+    "other": ["magnetic"]
+  },
+
+  {
+    "name": "Chalcopyrite",
+    "color": ["yellow","brown"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["green","black"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [4],
+    "other": ["irridescence"]
+  },
+
+  {
+    "name": "Sillimanite",
+    "color": ["white","gray","brown","green"],
+    "luster": ["silky","vitreous"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["radiating","none"],
+    "fracture": ["splintery"],
+    "hardness": [6.5,7.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Tremolite",
+    "color": ["white","gray","green","yellow","brown"],
+    "luster": ["vitreous","silky"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["none","radiating"],
+    "fracture": ["splintery"],
+    "hardness": [5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Nepheline",
+    "color": ["clear","white","gray","yellow"],
+    "luster": ["greasy","vitreous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["conchoidal"],
+    "hardness": [6],
+    "other": ["reactive"]
+  },
+
+  {
+    "name": "Wollastonite",
+    "color": ["white","gray","brown"],
+    "luster": ["silky","vitreous","dull"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["none","radiating"],
+    "fracture": ["splintery"],
+    "hardness": [4.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Lepidolite",
+    "color": ["pink","purple","gray","white"],
+    "luster": ["pearly","vitreous"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["none","grainy","platy"],
+    "fracture": ["irregular"],
+    "hardness": [2.5,3],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Augite",
+    "color": ["brown","black","green","purple"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["green","gray","brown"],
+    "shape": ["prism","none"],
+    "fracture": ["irregular"],
+    "hardness": [5.5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Muscovite",
+    "color": ["clear","white","brown"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["platy"],
+    "fracture": ["irregular"],
+    "hardness": [2],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Potassium Feldspar",
+    "color": ["white","gray","pink","brown"],
+    "luster": ["vitreous","resinous"],
+    "transparency": ["transparent","translucent"],
+    "streak": ["white"],
+    "shape": ["prism"],
+    "fracture": ["irregular","tabular"],
+    "hardness": [6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Topaz",
+    "color": ["yellow","orange","clear","white"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["prism"],
+    "fracture": ["conchoidal"],
+    "hardness": [8],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Plagioclase",
+    "color": ["white","gray","clear"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["prism","tabular"],
+    "fracture": ["irregular"],
+    "hardness": [6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Zircon",
+    "color": ["clear","gray","yellow","brown","red","black"],
+    "luster": ["adamantine","vitreous","greasy"],
+    "transparency": ["opaque","translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["tetragonal"],
+    "fracture": ["conchoidal"],
+    "hardness": [7.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Brucite",
+    "color": ["white","gray","blue","green","brown"],
+    "luster": ["pearly","vitreous"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["platy"],
+    "fracture": ["irregular"],
+    "hardness": [2.5],
+    "other": ["other"]
+  },
+
+  {
+    "name": "Horneblende",
+    "color": ["green","brown","black"],
+    "luster": ["vitreous","dull","resinous"],
+    "transparency": ["opaque","translucent","transparent"],
+    "streak": ["gray","white","none"],
+    "shape": ["prism","tabular"],
+    "fracture": ["irregular","splintery"],
+    "hardness": [5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Prehnite",
+    "color": ["green","yellow","gray","white"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["boytryoidal"],
+    "fracture": ["irregular"],
+    "hardness": [6,6.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Olivine",
+    "color": ["green","yellow","brown","black"],
+    "luster": ["vitreous","greasy"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["grainy"],
+    "fracture": ["conchoidal"],
+    "hardness": [7],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Serpentine",
+    "color": ["green","white","teal","gray"],
+    "luster": ["vitreous","waxy"],
+    "transparency": ["opaque","translucent","transparent"],
+    "streak": ["white","green"],
+    "shape": ["none"],
+    "fracture": ["splintery"],
+    "hardness": [2.5,4],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Bronzite",
+    "color": ["brown"],
+    "luster": ["metallic","sub-metallic"],
+    "transparency": ["opaque"],
+    "streak": ["brown"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [5,6],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Andalusite",
+    "color": ["brown","green","gray"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["prism"],
+    "fracture": ["irregular"],
+    "hardness": [7.5],
+    "other": ["pleochroism"]
+  },
+
+  {
+    "name": "Leucite",
+    "color": ["white","gray"],
+    "luster": ["vitreous","dull"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["tetragonal"],
+    "fracture": ["conchoidal"],
+    "hardness": [5.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Enstatite",
+    "color": ["black","brown","yellow"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["gray","white"],
+    "shape": ["grainy","none"],
+    "fracture": ["irregular"],
+    "hardness": [5,6],
+    "other": ["pleochroism"]
+  },
+
+  {
+    "name": "Talc",
+    "color": ["white","gray"],
+    "luster": ["greasy","pearly"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [1],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Chlorite",
+    "color": ["green","black"],
+    "luster": ["vitreous","pearly","dull","earthy","waxy"],
+    "transparency": ["translucent","transparent","opaque"],
+    "streak": ["none"],
+    "shape": ["platy","grainy"],
+    "fracture": ["irregular"],
+    "hardness": [2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Biotite",
+    "color": ["brown","black","green"],
+    "luster": ["vitreous","pearly"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["platy"],
+    "fracture": ["irregular"],
+    "hardness": [2.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Jasper",
+    "color": ["red","brown"],
+    "luster": ["dull","vitreous"],
+    "transparency": ["opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["conchoidal"],
+    "hardness": [6.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Scapolite",
+    "color": ["white","gray","pink","purple","yellow"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["prism"],
+    "fracture": ["irregular"],
+    "hardness": [5,6],
+    "other": ["pleochroism"]
+  },
+
+  {
+    "name": "Tourmaline",
+    "color": ["black","brown","green","pink","blue","red"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","transparent"],
+    "streak": ["white"],
+    "shape": ["prism","hexagonal"],
+    "fracture": ["conchoidal"],
+    "hardness": [7,7.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Staurolite",
+    "color": ["red","brown"],
+    "luster": ["vitreous","resinous"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white","gray"],
+    "shape": ["none","prism"],
+    "fracture": ["irregular"],
+    "hardness": [7,7.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Amazonite",
+    "color": ["green","teal"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["irregular"],
+    "hardness": [6,6.5],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Stibnite",
+    "color": ["gray","black"],
+    "luster": ["metallic"],
+    "transparency": ["opaque"],
+    "streak": ["gray","black"],
+    "shape": ["radiating","none"],
+    "fracture": ["irregular"],
+    "hardness": [2],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Chert",
+    "color": ["white","gray","brown"],
+    "luster": ["waxy","dull"],
+    "transparency": ["translucent","opaque"],
+    "streak": ["white"],
+    "shape": ["none"],
+    "fracture": ["conchoidal"],
+    "hardness": [6.5,7],
+    "other": ["none"]
+  },
+
+  {
+    "name": "Labradorite",
+    "color": ["black","blue","purple"],
+    "luster": ["vitreous"],
+    "transparency": ["translucent"],
+    "streak": ["white"],
+    "shape": ["none","tabular"],
+    "fracture": ["irregular"],
+    "hardness": [6,6.5],
+    "other": ["pleochroism","irridescence"]
+  }
+]
